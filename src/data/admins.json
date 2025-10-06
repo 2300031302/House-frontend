@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin1",
+    "name": "Admin User",
+    "email": "admin@homeservices.com",
+    "password": "admin123",
+    "role": "admin",
+    "image": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=150"
+  }
+]

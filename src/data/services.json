@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "House Cleaning",
+    "category": "Cleaning",
+    "description": "Professional house cleaning service",
+    "price": 80,
+    "duration": "2-3 hours",
+    "image": "https://images.pexels.com/photos/4239095/pexels-photo-4239095.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "features": ["Deep cleaning", "Eco-friendly products", "Insured professionals"]
+  },
+  {
+    "id": "2",
+    "name": "Plumbing Repair",
+    "category": "Plumbing",
+    "description": "Expert plumbing repair and maintenance",
+    "price": 120,
+    "duration": "1-2 hours",
+    "image": "https://images.pexels.com/photos/8486944/pexels-photo-8486944.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "features": ["24/7 emergency", "Licensed plumbers", "1-year warranty"]
+  },
+  {
+    "id": "3",
+    "name": "Electrical Work",
+    "category": "Electrical",
+    "description": "Safe and reliable electrical services",
+    "price": 100,
+    "duration": "1-3 hours",
+    "image": "https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "features": ["Certified electricians", "Safety guaranteed", "Free estimates"]
+  },
+  {
+    "id": "4",
+    "name": "AC Repair",
+    "category": "HVAC",
+    "description": "Air conditioning repair and maintenance",
+    "price": 150,
+    "duration": "2-4 hours",
+    "image": "https://images.pexels.com/photos/7031720/pexels-photo-7031720.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "features": ["Quick response", "All brands", "Maintenance plans"]
+  },
+  {
+    "id": "5",
+    "name": "Gardening",
+    "category": "Landscaping",
+    "description": "Professional lawn and garden care",
+    "price": 90,
+    "duration": "2-4 hours",
+    "image": "https://images.pexels.com/photos/416978/pexels-photo-416978.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "features": ["Seasonal care", "Organic options", "Weekly/monthly plans"]
+  },
+  {
+    "id": "6",
+    "name": "Painting",
+    "category": "Home Improvement",
+    "description": "Interior and exterior painting services",
+    "price": 200,
+    "duration": "4-8 hours",
+    "image": "https://images.pexels.com/photos/6474471/pexels-photo-6474471.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "features": ["Premium paints", "Color consultation", "Clean finish"]
+  }
+]

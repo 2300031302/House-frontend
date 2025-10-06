@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah Johnson",
+    "specialty": "House Cleaning",
+    "serviceIds": ["1"],
+    "rating": 4.9,
+    "reviewCount": 124,
+    "experience": "5+ years",
+    "availability": ["morning", "afternoon"],
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150",
+    "bio": "Professional cleaner with eco-friendly approach",
+    "hourlyRate": 40,
+    "customPricing": {
+      "1": 85
+    }
+  },
+  {
+    "id": "2",
+    "name": "Mike Rodriguez",
+    "specialty": "Plumbing",
+    "serviceIds": ["2"],
+    "rating": 4.8,
+    "reviewCount": 89,
+    "experience": "8+ years",
+    "availability": ["morning", "afternoon", "evening"],
+    "image": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=150",
+    "bio": "Licensed plumber specializing in emergency repairs",
+    "hourlyRate": 60,
+    "customPricing": {
+      "2": 130
+    }
+  },
+  {
+    "id": "3",
+    "name": "David Chen",
+    "specialty": "Electrical",
+    "serviceIds": ["3"],
+    "rating": 4.9,
+    "reviewCount": 156,
+    "experience": "10+ years",
+    "availability": ["morning", "afternoon"],
+    "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=150",
+    "bio": "Certified electrician with safety-first approach",
+    "hourlyRate": 50,
+    "customPricing": {
+      "3": 110
+    }
+  },
+  {
+    "id": "4",
+    "name": "Lisa Williams",
+    "specialty": "HVAC",
+    "serviceIds": ["4"],
+    "rating": 4.7,
+    "reviewCount": 67,
+    "experience": "6+ years",
+    "availability": ["afternoon", "evening"],
+    "image": "https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg?auto=compress&cs=tinysrgb&w=150",
+    "bio": "HVAC specialist with quick response times",
+    "hourlyRate": 75,
+    "customPricing": {
+      "4": 160
+    }
+  },
+  {
+    "id": "5",
+    "name": "James Green",
+    "specialty": "Landscaping",
+    "serviceIds": ["5"],
+    "rating": 4.6,
+    "reviewCount": 92,
+    "experience": "7+ years",
+    "availability": ["morning", "afternoon"],
+    "image": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=150",
+    "bio": "Passionate gardener with organic expertise",
+    "hourlyRate": 45,
+    "customPricing": {
+      "5": 95
+    }
+  },
+  {
+    "id": "6",
+    "name": "Emma Davis",
+    "specialty": "Painting",
+    "serviceIds": ["6"],
+    "rating": 4.8,
+    "reviewCount": 134,
+    "experience": "9+ years",
+    "availability": ["morning", "afternoon"],
+    "image": "https://images.pexels.com/photos/1181424/pexels-photo-1181424.jpeg?auto=compress&cs=tinysrgb&w=150",
+    "bio": "Professional painter with eye for detail",
+    "hourlyRate": 50,
+    "customPricing": {
+      "6": 210
+    }
+  }
+]
